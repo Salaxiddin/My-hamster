@@ -1,1 +1,1 @@
-# My-hamster
+# my-hamter
